@@ -6,11 +6,11 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS)](https://github.com/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS/total.svg)](https://github.com/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS/archive/refs/tags/Release.zip)
 
-Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a1d32a1f-053e-4065-ac22-b8a9ad72add3/deploy-status)](https://gilded-arithmetic-6f4458.netlify.app/) [`(Test it out here)`](https://gilded-arithmetic-6f4458.netlify.app/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://blanksite.eu/preview/1b7ea20dd23f3fda0971d3d0dcff76e80b47608e/) [`(Test it out here)`](https://blanksite.eu/preview/1b7ea20dd23f3fda0971d3d0dcff76e80b47608e/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS/archive/refs/tags/Release.zip)
 - or [`Fork`](https://github.com/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS/fork) it to your repository.
 
 ## Video
-[![Video not available yet](https://img.youtube.com/vi/w1dQxI3W_5Y/0.jpg)](https://www.youtube.com/watch?v=w1dQxI3W_5Y)
+<a href="https://www.youtube.com/watch?v=w1dQxI3W_5Y"><img src="https://img.youtube.com/vi/w1dQxI3W_5Y/maxresdefault.jpg" height="300" alt="Video not available yet"></a>
